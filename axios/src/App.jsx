@@ -1,6 +1,6 @@
 import React from 'react'
 
-//import './App.css'
+import './App.css'
 import FeatchData from './FeatchData'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
